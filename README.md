@@ -5,3 +5,9 @@ C-19 Status App made with SwiftUI .
 
 ## First Creator of App - [theofficialdeveloper](https://www.instagram.com/theofficialdeveloper/)
 
+## Changes Made By Me
+1. Splash Screen and Linear Graph
+2. Improved UI
+3. Active Cases and Population Part
+
+## Copyright - [theappwizard2408](https://www.instagram.com/theappwizard2408/)
